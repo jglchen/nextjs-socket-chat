@@ -1,0 +1,53 @@
+.messageItem {
+    display: flex;
+    margin: 8px auto;
+}
+  
+.myMessage {
+    justify-content: flex-end;
+}
+  
+.receivedMessage {
+    justify-content: flex-start;
+}
+  
+.messageBodyContainer {
+    max-width: 60%;
+}
+  
+.messageBody {
+    flex: 1;
+    border-radius: 4px;
+    padding: 8px 12px;
+    word-break: break-word;
+}
+  
+.messageUserName {
+    font-size: 0.75rem;
+    padding-left: 12px;
+    color: rgb(138, 141, 145);
+}
+  
+.myMessage .messageBody {
+    background-color: rgb(0, 132, 255);
+    color: white;
+}
+  
+.receivedMessage .messageBody {
+    background-color: rgb(228, 230, 235);
+    color: rgb(5, 5, 5);
+}
+  
+.messageAvatarContainer {
+    align-self: flex-end;
+    margin: 0px 8px;
+}
+  
+.messageAvatar {
+    vertical-align: middle;
+    border-radius: 50%;
+  
+    height: 28px;
+    width: 28px;
+}
+  

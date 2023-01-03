@@ -1,0 +1,18 @@
+.messageItem {
+    display: flex;
+    margin: 8px auto;
+}
+  
+.messageAvatarContainer {
+    align-self: flex-end;
+    margin: 0px 8px;
+}
+  
+.messageAvatar {
+    vertical-align: middle;
+    border-radius: 50%;
+  
+    height: 28px;
+    width: 28px;
+}
+  

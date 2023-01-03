@@ -1,0 +1,72 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/*
+======================================================
+*/
+
+.dotsContainer {
+  width: 60px;
+  height: 25px;
+  background: #f2f2f2;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#dot1,
+#dot2,
+#dot3 {
+  width: 7px;
+  height: 7px;
+  background: #cacaca;
+  border-radius: 50%;
+  margin: 3px;
+  transition: all 0.5s ease-in-out;
+  animation: typing 1s infinite;
+}
+
+#dot1 {
+  animation-delay: 1s;
+}
+
+#dot2 {
+  animation-delay: 0.5s;
+}
+
+#dot3 {
+  animation-delay: 0.8s;
+}
+
+@keyframes typing {
+  0% {
+    transform: translateY(0);
+    transition: all 0.5s ease-in-out;
+  }
+
+  50% {
+    transform: translateY(-5px);
+    transition: all 0.5s ease-in-out;
+  }
+
+  100% {
+    transform: translateY(0);
+    transition: all 0.5s ease-in-out;
+  }
+}
+
