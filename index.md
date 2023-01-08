@@ -15,3 +15,5 @@ This real-time chat application is built with **[Next.js](https://nextjs.org/)**
 ### Docker: docker run -p 3000:3000 jglchen/nextjs-socket-chat
 ### [GitHub](https://github.com/jglchen/nextjs-socket-chat)
 ### back To [Series Home](https://jglchen.github.io/)
+
+{% include giscus.html %}
