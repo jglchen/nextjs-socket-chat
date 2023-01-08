@@ -6,6 +6,9 @@ permalink: /about/
 
 This is a project of my [Side Project Series](https://jglchen.github.io/), listed below.
 
+- #### [Chat Applications with Cloud Firestore](https://jglchen.github.io/firestore-realtime-chat/)
+    A real-time chat application with Next.js using Firebase Cloud FireStore.
+
 - #### [Chat Applications with Socket.IO](https://jglchen.github.io/nextjs-socket-chat/)
     A real-time chat application built with Next.js using Socket.IO for demonstrations.
 
