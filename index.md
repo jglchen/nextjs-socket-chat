@@ -12,6 +12,8 @@ There are many ways to achieve real-time content updates on the web. Long-pollin
 
 This real-time chat application is built with **[Next.js](https://nextjs.org/)** using **[Socket.IO](https://nextjs.org/)** for demonstrations.
 
+![nextjs-socket-chat-screenshot](/images/nextjs-socket-chat-screenshot.png)
+
 ### Docker: docker run -p 3000:3000 jglchen/nextjs-socket-chat
 ### [GitHub](https://github.com/jglchen/nextjs-socket-chat)
 ### back To [Series Home](https://jglchen.github.io/)
