@@ -6,6 +6,9 @@ permalink: /about/
 
 This is a project of my [Side Project Series](https://jglchen.github.io/), listed below.
 
+- #### [Firebase Authentication](https://jglchen.github.io/firebase-auth/)
+    An authentication system with Firebase using a signed and encrypted cookie to store session data.
+
 - #### [Chat Applications with Cloud Firestore](https://jglchen.github.io/firestore-realtime-chat/)
     A real-time chat application with Next.js using Firebase Cloud FireStore.
 
