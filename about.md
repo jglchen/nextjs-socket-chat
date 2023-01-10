@@ -12,6 +12,12 @@ This is a project of my [Side Project Series](https://jglchen.github.io/), liste
 - #### [React Native Firebase Authentication](https://jglchen.github.io/react-native-firebase-auth/)
     A react native(mobile) authentication system with Firebase using an encrypted storage to store session data.
 
+- #### [Firebase Email Passwordless Link Authentication](https://jglchen.github.io/firebase-auth-email/)
+    An authentication system with Firebase Email Passwordless Link using a signed and encrypted cookie to store session data.
+
+- #### [React Native Firebase Passwordless Authentication](https://jglchen.github.io/react-native-firebase-auth-email/)
+    A react native(mobile) authentication system with Firebase Email Passwordless Link using an encrypted storage to store session data.
+
 - #### [Chat Applications with Cloud Firestore](https://jglchen.github.io/firestore-realtime-chat/)
     A real-time chat application with Next.js using Firebase Cloud FireStore.
 
