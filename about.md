@@ -12,6 +12,9 @@ This is a project of my [Side Project Series](https://jglchen.github.io/), liste
 - #### [Hackernews Clone Mobile App](https://jglchen.github.io/react-native-hackernews-apollo/)
     A mobile app built with react native implementing GraphQL APIs, which can be considered as the mobile version of [Hackernews Clone Site with GraphQL](https://jglchen.github.io/hackernews-nextjs-apollo/).
 
+- #### [Hackernews Clone Site with GraphQL (includes GraphQL subscriptions)](https://jglchen.github.io/hackernews-nextjs-graphql-sse/)
+    A Hackernews clone site built with next.js implementing GraphQL APIs, for which Apollo Client is adopted in the frontend and GraphQL Yoga in the backend server. Full functionality of the GraphQL server, including queries, mutations, and subscriptions, is implemented in this app.
+
 - #### [Firebase Authentication](https://jglchen.github.io/firebase-auth/)
     An authentication system with Firebase using a signed and encrypted cookie to store session data.
 
