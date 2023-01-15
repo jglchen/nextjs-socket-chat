@@ -6,6 +6,12 @@ permalink: /about/
 
 This is a project of my [Side Project Series](https://jglchen.github.io/), listed below.
 
+- #### [Appointment Scheduler](https://jglchen.github.io/scheduler-app/)
+    An appointment scheduler app built with next.js for demonstrations.
+
+- #### [React Native Appointment Scheduler](https://jglchen.github.io/react-native-scheduler-app/)
+    The mobile version of the [Appointment Scheduler Web App](https://jglchen.github.io/scheduler-app/), which is an appointment scheduler app built with next.js for demonstrations.
+
 - #### [Hackernews Clone Site with GraphQL](https://jglchen.github.io/hackernews-nextjs-apollo/)
     A Hackernews clone site built with next.js implementing GraphQL APIs and Firebase Cloud Firestore to substitute GraphQL subscriptions.
 
