@@ -21,6 +21,12 @@ This is a project of my [Side Project Series](https://jglchen.github.io/), liste
 - #### [Hackernews Clone Site with GraphQL (includes GraphQL subscriptions)](https://jglchen.github.io/hackernews-nextjs-graphql-sse/)
     A Hackernews clone site built with next.js implementing GraphQL APIs, for which Apollo Client is adopted in the frontend and GraphQL Yoga in the backend server. Full functionality of the GraphQL server, including queries, mutations, and subscriptions, is implemented in this app.
 
+- #### [Web Scraping Demonstrations](https://jglchen.github.io/web-scrape/)
+    This is a next.js framework site to demonstrate web scraping cases and my expertise in web scraping.
+
+- #### [Web Scraping Demonstrations -- Mobile Version](https://jglchen.github.io/react-native-web-scrape/)
+    This mobile app is considered the mobile version of [Web Scraping Demonstrations](https://web-scrape.vercel.app) to demonstrate web scraping cases and my expertise in web scraping. 
+
 - #### [Firebase Authentication](https://jglchen.github.io/firebase-auth/)
     An authentication system with Firebase using a signed and encrypted cookie to store session data.
 
