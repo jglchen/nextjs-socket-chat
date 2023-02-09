@@ -57,6 +57,9 @@ This is a project of my [Side Project Series](https://jglchen.github.io/), liste
 - #### [Build Applications from Website to Mobile - A Sample Server-Rendered Website with Node.js](https://jglchen.github.io/nextjs-projects/)
     A Brief Introduction of John Chen, a full-stack software developer. This site illustrates the side projects of John Chen for publicity to show up his technical capabilities and interests.
 
+- #### [Build Applications from Website to Mobile - Mobile Version of A Sample Server-Rendered Website with Node.js](https://jglchen.github.io/react-native-nextjs-projects/)
+    The mobile version of the "Build Applications from Website to Mobile - A Sample Server-Rendered Website with Node.js"
+
 - #### [React Markdown Editor](https://jglchen.github.io/react-md-editor/)
     A Markdown editor app with React.js built to facilitate editing Markdown documents.
 
